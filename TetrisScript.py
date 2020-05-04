@@ -1,5 +1,4 @@
 #Created by Marki2019
-#Do not redistribute without crediting
 #Controls: Up arrow : rotate,left-right arrow : Move Left-right
 #Down arrow : Drop faster (You need to press down arrow repeatedly)
 #Pygame Required
